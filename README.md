@@ -1,3 +1,3 @@
 # progama-o-estatistica
-atividade
+one
 atividades de progamação estatistica
